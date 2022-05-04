@@ -8,10 +8,10 @@ This is the root directory of the repository. The directory is structured as fol
 
     .
     ├── data                                            
-    │    ├── dataset.csv                              Labelled dataset of Stack Overflow posts
-    │    └── inter_rater_reliability_data.csv         Data used to assess inter-rater reliability
+    │    ├── dataset.csv                             Labelled dataset of Stack Overflow posts
+    │    └── inter_rater_reliability_data.csv        Data used to assess inter-rater reliability
     ├── docs
-    │ └── labelling_guide.pdf                      Labelling guide
+    │ └── labelling_guide.pdf                        Labelling guide
     └── src
         ├── analysis
         │   ├── inter_rater_reliability_analysis.R   Script used to assess inter-rater reliability
